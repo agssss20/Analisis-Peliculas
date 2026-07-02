@@ -12,7 +12,7 @@
 
 **Tools**
 
--Pandas, Matplotlib y Seaborn.
+-Pandas, Matplotlib and Seaborn.
 
 **About the content**
 
